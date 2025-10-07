@@ -21,7 +21,7 @@
     <main>
         <section id="about" class="section">
             <div class="content-wrapper">
-                <h1>Hi, I'm [Your Name] 👋</h1>
+                <h1>Hi, I'm [MANASH ROY] 👋</h1>
                 <p>I'm a passionate developer focused on creating dynamic and interactive web experiences. This portfolio is built with pure HTML, CSS, and JavaScript.</p>
                 <button class="cta-button">View My Resume</button>
             </div>
