@@ -21,4 +21,15 @@ The portfolio is built with smooth navigation, subtle animations, and a responsi
 | **Structure** | HTML5 | Semantic content structure |
 | **Styling** | CSS3 | Layout, visual design, and responsiveness |
 | **Interactivity** | JavaScript (ES6+) | DOM manipulation, form handling, and scroll-based effects |
-| **Optional/Advanced** | GSAP / ScrollTrigger | *Planned upgrade for complex, production-ready animation timelines and parallax effects.* 
+| **Optional/Advanced** | GSAP / ScrollTrigger | *Planned upgrade for complex, production-ready animation timelines and parallax effects.* |
+
+---
+
+## 💻 Installation and Setup
+
+This project is a static site and requires no backend or complex server setup.
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/your-username/interactive-digital-portfolio.git](https://github.com/your-username/interactive-digital-portfolio.git)
+cd interactive-digital-portfolio
