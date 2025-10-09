@@ -29,7 +29,3 @@ The portfolio is built with smooth navigation, subtle animations, and a responsi
 
 This project is a static site and requires no backend or complex server setup.
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/interactive-digital-portfolio.git](https://manashroy2025.github.io/Digital-Portfolio/)
-cd interactive-digital-portfolio
